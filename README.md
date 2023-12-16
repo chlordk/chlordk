@@ -1,3 +1,4 @@
+![Figure: Logo](github-chlordk-logo.png)
 ### Hi there 👋
 
 <!--
